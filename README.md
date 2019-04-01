@@ -14,7 +14,7 @@ Obs.: Necessário acesso a rede para download das dependências.
 
 ### 1. Hello World
 
-Retornar uma mensagem.
+Retorna uma mensagem.
 
 #### 1.1 Exemplo de Consumo
 * Método:
@@ -29,4 +29,4 @@ Retornar uma mensagem.
 
         Com um projeto separado por módulos, facilita uma nova integração e o reuso do código.
         
-        Utilizando o dependency managament, não é necessário se preocupar com versões de dependências.
+        Utilizando o dependency managament, não é necessário se preocupar com versões de dependências do spring.
